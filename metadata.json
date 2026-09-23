@@ -1,0 +1,6 @@
+{
+  "name": "JEV Harness",
+  "description": "High-performance Agent Harness & Algorithmic Crypto Trading Engine powered by TypeSafe AI's Jev System One decision engine, Arkham Intelligence, and Nansen Smart Money flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
